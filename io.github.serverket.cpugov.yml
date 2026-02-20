@@ -20,5 +20,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/Serverket/cpugov.git
-        tag: v0.1.1
-        commit: f7808a437b9341c3ac2b2dcdfbc11327d5fa8ce6
+        tag: v0.1.2
+        commit: f10b4dd4e7e8599ae85d6b631ced5f1e345ff22a
